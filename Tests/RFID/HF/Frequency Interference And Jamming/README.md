@@ -2,6 +2,9 @@
 
 Explain how to do it 
 
-"""bash
-run this command
-"""
+
+run
+
+```bash
+python script.py
+```

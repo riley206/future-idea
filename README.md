@@ -4,7 +4,7 @@
 
 ## Getting started
 
-Welcome to the SWIP playbook! Here you will find [tests](/Tests) and plays to help navigate your situation. 
+Welcome to the SWIP playbook! Here you will find [tests](/Tests) and [plays](/Plays) to help navigate your situation. 
 
 ## Add your files
 
